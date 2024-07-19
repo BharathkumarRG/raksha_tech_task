@@ -1,7 +1,3 @@
-Here's a sample README.md for your project:
-
----
-
 # Dashboard Project
 
 This project is a two-page dashboard with login functionalities, built using Nuxt.js and the Shardcn Vue package for the UI framework.
