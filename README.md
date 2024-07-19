@@ -2,6 +2,14 @@
 
 This project is a two-page dashboard with login functionalities, built using Nuxt.js and the Shardcn Vue package for the UI framework.
 
+Demo Link: https://raksha-tech-task-bharathkumar.vercel.app
+
+Sample Screenshots:
+![image](https://github.com/user-attachments/assets/df2e5c93-356c-4585-b91a-71ed01670614)
+![image](https://github.com/user-attachments/assets/4c49801d-95a6-4184-92f7-3d79dbd428c3)
+![image](https://github.com/user-attachments/assets/bbe2d1cd-1c16-4447-b836-36e8c5a8173c)
+
+
 ## Table of Contents
 
 - [Features](#features)
