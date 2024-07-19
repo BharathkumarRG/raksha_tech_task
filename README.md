@@ -80,12 +80,4 @@ This will create a production-ready build of the project in the `dist` directory
 - [Shardcn Vue](https://shardcn.com/) - A UI framework for Vue.js
 - [Bun](https://bun.sh/) - A fast, all-in-one JavaScript runtime
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ---
